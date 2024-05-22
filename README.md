@@ -1,4 +1,4 @@
-# Marketing-Campaign-Analysis
+# Marketing Campaign Analysis
 
 #### Objective
 The objective of this project is to build a predictive model that will produce the highest profit for the next direct marketing campaign. Key objectives:
