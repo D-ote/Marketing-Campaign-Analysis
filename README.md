@@ -17,4 +17,4 @@ The data underwent rigorous cleaning processes, including:
 - Feature engineering
 - Data encoding, normalization and standardization.
 
-A comprehensive report on this project can be found [here](https://medium.com/@dooterior).
+A comprehensive report on this project can be found [here](https://medium.com/@dooterior/marketing-campaign-analysis-1aaedf4a1725).
